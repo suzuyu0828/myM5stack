@@ -1,3 +1,5 @@
+//顔だけ
+
 #include <M5Unified.h>
 #include <math.h>
 
